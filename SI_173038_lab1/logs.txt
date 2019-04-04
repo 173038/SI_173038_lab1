@@ -1,0 +1,17 @@
+173038@lab215-ws21 MINGW64 ~/Desktop (bugFix1)
+$ git checkout logs
+Switched to branch 'logs'
+
+173038@lab215-ws21 MINGW64 ~/Desktop (logs)
+$ git log
+commit 856dff816e4ae1ced5a5170b2de22a02f9d20e67 (HEAD -> logs, origin/master, master)
+Author: unknown <Novica.Veljanoski@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:25:09 2019 +0200
+
+    Initial commit
+
+commit a421f97b1107767ea4cfb0697069122e384ad445
+Author: unknown <Novica.Veljanoski@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:23:29 2019 +0200
+
+    Prv cekor
